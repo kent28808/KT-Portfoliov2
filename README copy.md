@@ -5,7 +5,7 @@
 This is my portfolio page that has been updated with the recent projects completed in this course.
 
 
-![Readme Generator](Assets/readme-photo)
+![Updated portfolio](Assets/readme-photo)
 
 
 ## Built With
@@ -17,7 +17,7 @@ This is my portfolio page that has been updated with the recent projects complet
 
 ## Deployed Link
 
-* [Deployed link](https://kent28808.github.io/KT-Portfolio/)
+* [Deployed link]( https://kent28808.github.io/KT-Portfoliov2/)
 
 
 ## Authors
