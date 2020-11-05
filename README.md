@@ -5,7 +5,7 @@
 This is my portfolio page that has been updated with the recent projects completed in this course.
 
 
-![Updated portfolio](Assets/readme-photo)
+![Updated portfolio](https://github.com/kent28808/KT-Portfoliov2/blob/main/Assets/portfolio-screenshot.png)
 
 
 ## Built With
